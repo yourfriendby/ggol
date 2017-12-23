@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+#zuobian,#youbian{
+	padding: 20px;
+	border: 1px solid #999;
+}
+#container {
+	padding: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	overflow: hidden;
+}
+#zuobian {
+	height: 80px;
+	width: 160px;
+	background-color: #fff;
+	float: left;
+	position: relative;
+	margin-right: 20px;
+}
+#zhongjian {
+	padding-left: 20px;
+	padding-right: 20px;
+	overflow: auto;
+	background-color: #fff;
+	border: 1px solid #999;
+}
+#youbian {
+	height: 380px;
+	width: 80px;
+	float: right;
+	background-color: #fff;
+	position: relative;
+	margin-left: 20px;
+}
+#dalao1 {
+	position: absolute;
+	top: 120px;
+}
+#xianyu1 {
+	position: absolute;
+	top: 220px;
+}
+#xianyu2 {
+	position: absolute;
+	top: 320px;
+}
+#logo {
+	fioat:left;
+}
+h5 {
+	position: absolute;
+	top: 0;
+	right: 20px;
+}
